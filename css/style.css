@@ -1,0 +1,106 @@
+body{
+  background-color:white;
+}
+#container{
+  background-color: white;
+  width:80%;
+  height: auto;
+  margin-left: 10%;
+  border-style:solid;
+}
+#head{
+  background-color: #ffccff;
+  height: 20px;
+}
+#head h6{
+  color: red;
+  text-align: center;
+  padding: 5px;
+  margin-top: 0px;
+}
+.menu{
+  background-color: #141c1f;
+  height: 35px;
+}
+.box{
+  display: block;
+  display:inline-block;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.box a{
+  text-decoration: none;
+  color: white;
+}
+.footer{
+  background-color: #7c8f7f;
+  text-align: center;
+}
+.footer h6{
+  margin-top: -8px;
+  margin-bottom: 0px;
+}
+.image img{
+  width: 140px;
+  height: 100px;
+}
+.column {
+  float: left;
+  padding: 5px;
+}
+.column figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+.image{
+  content: "";
+  clear: both;
+  display: table;
+  margin-left: 20%;
+}
+.para{
+  background-color: lightblue;
+  width: 625px;
+  margin-left: 20%;
+  padding: 20px 10px 10px 10px;
+}
+.para h2{
+  color:red;
+}
+.para i{
+  color:blue;
+}
+.para p{
+  font-size: 12px;
+}
+.para ol{
+  font-size: 12px;
+}
+.right{
+  float:right;
+  width: 330px;
+  background-color: blue;
+  margin-right: 26.5%;
+  padding: 20px 10px 10px 10px;
+  margin-top: -109px;
+}
+.left{
+  width: 305px;
+  background-color: #ffffcc;
+  margin-left: 20%;
+  margin-top: 0px;
+  padding: 0px 5px 10px 5px;
+}
+.left i{
+  font-size: 12px;
+  color: blue;
+}
+.left ul{
+  font-size: 9px;
+}
+.right p{
+  font-size: 9px;
+  color: white;
+  
+}

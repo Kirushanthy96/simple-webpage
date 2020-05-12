@@ -1,0 +1,77 @@
+ h2{
+  color: red;
+  margin-left: 100px;
+}
+
+.pic1 figcaption{
+  font-size: 11px;
+  text-align: center;
+  color:blue;
+  font-style: italic;
+}
+.pic1 p{
+  font-size: 5px;
+}
+.more{
+  background-color: blue;
+}
+.more p{
+  font-size: 11px;
+  color: white;
+  text-align: center;
+}
+.pic1{
+  background-color:#d6d6c2;
+  margin-left: -80px;
+  width: 79%;
+  height: 150px;
+  padding-top: 10px;
+  margin-top: 2px;
+}
+.img1 {
+  float:left;
+  width:200px;
+  height: 130px;
+  background-color: white;
+  margin-left: 8px;
+}
+.pic1{
+  content: "";
+  clear: both;
+  display: table;
+  margin-left: 10%;
+}
+.img1 img{
+  width: 150px;
+  height: 75px;
+}
+.mor{
+  background-color: orange;
+}
+.mor p{
+  font-size: 11px;
+  color: white;
+  text-align: center;
+}
+.detail p{
+  color:red;
+}
+.info{
+  float:right;
+  margin-top: -50%;
+  margin-right: 10%;
+}
+.pink{
+  background-color: pink;
+  margin-top: 20px;
+  text-align: center;
+}
+.detail{
+  margin-left: 10%;
+}
+.info i,p{
+  color: red;
+}
+.info form input{
+  color:red;
+}
